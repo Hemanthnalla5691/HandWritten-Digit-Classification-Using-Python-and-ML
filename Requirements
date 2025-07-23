@@ -1,0 +1,4 @@
+Python 3
+tensorflow==2.13.0       # Deep learning framework used to build and train the CNN model
+numpy==1.24.3            # Numerical computation library for array processing
+gradio==4.16.0           # Lightweight web UI for the digit drawing and prediction interface
